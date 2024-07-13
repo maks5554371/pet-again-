@@ -22,7 +22,7 @@
    border-top-left-radius: 0 !important;
    border-top-right-radius: 0 !important;
   }
-p,h1,h2,h3,h4,h5 {
+p,h1,h2,h3,h4,h5,span {
   color: white;
 }
 .card2 {
@@ -36,5 +36,18 @@ p,h1,h2,h3,h4,h5 {
   width: 35vh;
   font-size: 3vh;
   margin: 20px;
-
+}
+footer {
+  background-color: #222222;
+}
+span {
+  font-size: 2.5vh;
+}
+.socials a {
+  padding: 2px;
+}
+.list-unstyled li {
+  display: inline;
+  padding: px;
+  margin-right: ;
 }
